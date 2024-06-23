@@ -1,2 +1,2 @@
 # crud-laravel
-Digging deeper into CRUD system in laravel. 
+CRUD employees system in laravel. 
